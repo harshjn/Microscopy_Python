@@ -1,8 +1,10 @@
 # -*- coding: utf-8 -*-
 """
+Python codes for controlling the basler camera via pypylon library
 Created on Fri Jun 28 12:38:35 2024
 
 @author: Leica-Admin
+
 """
 
 from pypylon import pylon
